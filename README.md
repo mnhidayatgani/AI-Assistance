@@ -8,17 +8,37 @@
   </a>
 </p>
 
-
 </h2>
 <p align="center">The world's first open-source multimodal creative assistant</p>
 <p align="center">This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.</p>
+<br><br>
 
-[中文入门指南](https://mxnpt25l6k.feishu.cn/docx/LvcTdlVbFoRAZWxnhBYcqVydnpc)
+<p align="center">
+    <a href="https://github.com/11cafe/jaaz/blob/main/README_zh.md">中文版</a>|
+  <a href="https://mxnpt25l6k.feishu.cn/docx/LvcTdlVbFoRAZWxnhBYcqVydnpc">新手指南</a>
+  </p>
 
-[中文版本 (Chinese Version)](./README_zh.md)
-[Join our Discord](https://discord.gg/dS7kuT66wc) to get latest updates!
 
-<div align="center"> <a href="https://jaaz.app/api/downloads/mac-latest"> <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" alt="Download for macOS" width="200"/> </a> &nbsp;&nbsp; <a href="https://jaaz.app/api/downloads/windows-latest"> <img width="200" src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" alt="Download for Windows" /> </a> </div>
+<p align="center">
+ <a href="https://discord.gg/https://discord.gg/SMRe5n3m">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+   <a href="https://github.com/11cafe/jaaz/stargazers">
+    <img src="https://img.shields.io/github/stars/11cafe/jaaz?style=for-the-badge&logo=github" alt="GitHub Stars" />
+     </a>  
+<!-- Download for Mac -->
+  <a href="https://jaaz.app/api/downloads/mac-latest">
+    <img src="https://img.shields.io/badge/For%20Mac-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Download for Mac" />
+  </a>
+
+  <!-- Download for Windows -->
+  <a href="https://jaaz.app/api/downloads/windows-latest">
+    <img src="https://img.shields.io/badge/For%20Windows-0078D6?logo=laptop&logoColor=white&style=for-the-badge" alt="Download for Windows" />
+  </a>
+</p>
+
+
+
 
 ## ✨ Getting started & staying tuned with us.
 
@@ -27,29 +47,57 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 ## ✨ Key Features
 
-Smart Prompt Agent
-Powered by LLMs, Jaaz can interpret your ideas and generate optimized prompts for high-quality image or storyboard creation.
 
-Hybrid Model Deployment
-Works with local models via Ollama, ComfyUI, and remote APIs like Replicate, OpenAI, or Claude. Run 100% locally or connect to the cloud.
+### ① 🎬 One-Prompt Multimodal Generation
+Turn a single prompt into a complete image or video in seconds.
 
-Simply access all the strongest apis
-After logging in, you can use all the latest models (gpt-image-1,flux kntext,google……)
+- Supports top models: GPT-4o, Flux Kontext, Midjourney, etc.
+- Advanced video generation with VEO3, Kling, Hailuo, and more
+- Auto-optimized prompts for professional-quality output
+- Multi-turn conversational iteration and refinement
 
-Interactive Image Editing
-Supports advanced operations such as object insertion, style transfer, and multi-character coherence via Flux Kontext — all controllable via chat.
 
-Infinite Canvas & Storyboarding
-Design layouts, plan scenes, and create visual storytelling flows with drag-and-drop simplicity.
+### ② 🧙 Magic Canvas (World-first, Patent Pending)
+A revolutionary, prompt-free interface — build your scene like Lego.
 
-(Coming Soon)
-Video Agent：Video generation and editing via models like Wan2.1, Kling, and more, seamlessly integrated with your creative workflow.
-Intelligently invoke custom comfyui workflows
+- Drag and drop characters, backgrounds, layouts
+- AI understands your actions and generates instantly
+- No prompt writing required — intuitive for all users
+- Lowers creation barriers and forms a defensible UX moat
 
----
 
-- Use Claude, OpenAI, Gemini via API key, or run locally with [Ollama](https://github.com/ollama/ollama) for **100% free** usage
-- Use image generation models like **GPT-4O, Recraft, Flux, Google Imagen**, etc. through Replicate API key
+### ③ 🖼️ Infinite Canvas & Visual Storyboarding
+Visually plan and execute creative workflows.
+
+- Unlimited canvas with scene linking and layout flow
+- Drag-and-drop design with media asset management
+- Real-time collaboration for teams and co-creators
+
+
+### ④ 🤖 Smart AI Agent System
+Control creative tasks via conversation — no manual clicking required.
+
+- Chat-based editing: object insertion, style transfer, scene logic
+- Supports multi-character coherence and image-to-image control
+- Smart routing across local (ComfyUI) and cloud (OpenAI, Claude) models
+
+
+### ⑤ ⚙️ Flexible Deployment & Local Asset Library
+Run locally or in the cloud — your data, your choice.
+
+- Fully offline mode: nothing leaves your device
+- Hybrid setup: combine Ollama, ComfyUI, and external APIs
+- Built-in local asset library for managing images, videos, and prompts
+- Cross-platform support: Windows & macOS with one-click setup
+
+
+### ⑥ 🔐 Privacy & Security by Design
+Creative freedom with enterprise-grade data control.
+
+- Local-first processing with full privacy control
+- Open-source and transparent — no tracking or backdoors
+- Suitable for commercial and sensitive workflows
+- No vendor lock-in — you own your tools and data
 
 ---
 
@@ -134,3 +182,4 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
