@@ -38,7 +38,9 @@
 </p>
 <p align="center">
 Create Viral Shorts with a Single Sentence
-<video src="https://github.com/user-attachments/assets/c948c0a9-1659-4b04-a21b-3724b11bd16f" controls width="100%" />
+<video src="https://github.com/user-attachments/assets/1c15e792-098a-4557-b310-d9c223f73442" controls width="100%" />
+
+
 
 
 ## ✨ Getting started & staying tuned with us.
@@ -174,5 +176,6 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
