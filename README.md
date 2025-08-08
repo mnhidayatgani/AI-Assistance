@@ -38,12 +38,18 @@
 </p>
 <p align="center">
 Magic Canva!
+  
 "Build" your ideas like playing with LEGO—paint directly, point with arrows, and the AI instantly understands and generates results.
-<video src="https://github.com/user-attachments/assets/aa8e82e5-0ec3-471e-ad3e-9ff183b4db41" controls width="100%" />
+<img width="900" alt="Screenshot 2025-06-02 at 3 03 49 PM" src="https://github.com/user-attachments/assets/543b170c-14f7-4a73-96bd-909662138592" />
+
+Magic video!
+
+https://github.com/user-attachments/assets/b7abf987-c65d-49b1-8178-82770873c583
 
 
 Create Viral Shorts with a Single Sentence
 <video src="https://github.com/user-attachments/assets/1c15e792-098a-4557-b310-d9c223f73442" controls width="100%" />
+
 
 
 
@@ -182,6 +188,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
