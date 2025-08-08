@@ -62,57 +62,49 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 ## ✨ Key Features
 
+🎬 One-Prompt Image & Video Generation
+Turn one prompt into complete images or videos in seconds.
 
-### ① 🎬 One-Prompt Multimodal Generation
-Turn a single prompt into a complete image or video in seconds.
+ -Supports GPT-4o, Midjourney, VEO3, Kling,veo3,seedance etc.
 
-- Supports top models: GPT-4o, Flux Kontext, Midjourney, etc.
-- Advanced video generation with VEO3, Kling, Hailuo, and more
-- Auto-optimized prompts for professional-quality output
-- Multi-turn conversational iteration and refinement
+ -Auto-optimized prompts & multi-turn refinement
 
+🧙 Magic Canvas (Patent Pending)
+Prompt-free creation — build like Lego.
 
-### ② 🧙 Magic Canvas (World-first, Patent Pending)
-A revolutionary, prompt-free interface — build your scene like Lego.
+ -Drag characters, scenes, layouts
 
-- Drag and drop characters, backgrounds, layouts
-- AI understands your actions and generates instantly
-- No prompt writing required — intuitive for all users
-- Lowers creation barriers and forms a defensible UX moat
+ -AI understands and generates instantly
 
+ -No prompt writing needed
 
-### ③ 🖼️ Infinite Canvas & Visual Storyboarding
-Visually plan and execute creative workflows.
+🖼️ Infinite Canvas & Visual Storyboarding
+Plan scenes with an unlimited canvas
 
-- Unlimited canvas with scene linking and layout flow
-- Drag-and-drop design with media asset management
-- Real-time collaboration for teams and co-creators
+ -Link layouts, manage media visually
 
+ -Real-time collaboration supported
 
-### ④ 🤖 Smart AI Agent System
-Control creative tasks via conversation — no manual clicking required.
+🤖 Smart AI Agent System
+ -Chat to insert objects, transfer styles, control logic
 
-- Chat-based editing: object insertion, style transfer, scene logic
-- Supports multi-character coherence and image-to-image control
-- Smart routing across local (ComfyUI) and cloud (OpenAI, Claude) models
+ -Works with local (ComfyUI) & cloud models
 
+ -Maintains multi-character coherence
 
-### ⑤ ⚙️ Flexible Deployment & Local Asset Library
-Run locally or in the cloud — your data, your choice.
+⚙️ Flexible Deployment & Local Assets
+ -Fully offline or hybrid setup (Ollama + APIs)
 
-- Fully offline mode: nothing leaves your device
-- Hybrid setup: combine Ollama, ComfyUI, and external APIs
-- Built-in local asset library for managing images, videos, and prompts
-- Cross-platform support: Windows & macOS with one-click setup
+ -Built-in library for media & prompts
 
+ -Cross-platform: Windows & macOS
 
-### ⑥ 🔐 Privacy & Security by Design
-Creative freedom with enterprise-grade data control.
+🔐 Privacy & Security
+ -Local-first, no data leaves your device
 
-- Local-first processing with full privacy control
-- Open-source and transparent — no tracking or backdoors
-- Suitable for commercial and sensitive workflows
-- No vendor lock-in — you own your tools and data
+ -Open-source, no tracking
+
+ -Safe for commercial use — you own your data
 
 ---
 
@@ -129,6 +121,7 @@ Start chatting with agent to generate stories or storyboards!
 
 
 ## Cases
+<img width="889" height="1103" alt="Frame 122" src="https://github.com/user-attachments/assets/90503110-0f5c-4297-bbfe-6d35e3f54d4c" />
 
 - Prompt: Help me place this character in six different scenes, all in front of landmark buildings from around the world. The lighting is harmonious. He takes photos from all over the world, realistic, with warm light, high picture quality, and a picture ratio of 9:16
 
@@ -188,6 +181,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
