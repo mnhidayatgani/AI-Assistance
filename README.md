@@ -71,14 +71,16 @@ Turn one prompt into complete images or videos in seconds.
 
  -Auto-optimized prompts & multi-turn refinement
 
-🧙 Magic Canvas (Patent Pending)
+🧙 Magic Canvas&Magic Video
 Prompt-free creation — build like Lego.
 
- -Drag characters, scenes, layouts
+ -Simple sketching and free combination — AI instantly understands and generates.
 
  -AI understands and generates instantly
 
  -No prompt writing needed
+ 
+ -Describe steps simply on the video, and AI will generate following them.
 
 🖼️ Infinite Canvas & Visual Storyboarding
 Plan scenes with an unlimited canvas
@@ -183,6 +185,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
