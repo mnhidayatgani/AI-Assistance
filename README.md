@@ -146,6 +146,7 @@ Support for multi-user private deployment of enterprise teams, ensuring privacy 
 Please contact via email: aifoxdw@gmail.com
 
 WeChat: aifox1
+![7369be03d07d4f8a2ae0694b6365c610](https://github.com/user-attachments/assets/dc479c9b-d6ad-43ef-ad89-ad672991d86c)
 
 
 ## Manual Install (For Linux or local builds)
@@ -185,6 +186,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
