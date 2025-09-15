@@ -29,7 +29,7 @@
 
 
 <p align="center">
- <a href="https://discord.gg/https://discord.gg/SMRe5n3m">
+ <a href="https://discord.gg/dS7kuT66wc">
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
    <a href="https://github.com/11cafe/jaaz/stargazers">
@@ -186,6 +186,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
