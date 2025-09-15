@@ -35,15 +35,6 @@
    <a href="https://github.com/11cafe/jaaz/stargazers">
     <img src="https://img.shields.io/github/stars/11cafe/jaaz?style=for-the-badge&logo=github" alt="GitHub Stars" />
      </a>  
-<!-- Download for Mac -->
-  <a href="https://jaaz.app/api/downloads/mac-latest">
-    <img src="https://img.shields.io/badge/For%20Mac-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Download for Mac" />
-  </a>
-
-  <!-- Download for Windows -->
-  <a href="https://jaaz.app/api/downloads/windows-latest">
-    <img src="https://img.shields.io/badge/For%20Windows-0078D6?logo=laptop&logoColor=white&style=for-the-badge" alt="Download for Windows" />
-  </a>
 </p>
 <p align="center">
 Magic Canva!
@@ -195,6 +186,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
