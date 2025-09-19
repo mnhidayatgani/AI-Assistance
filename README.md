@@ -19,6 +19,7 @@
   <br>
   <b>📣 [New!] 企业云端完整版</b> — 支持<span>私有化部署</span>与<span>商业授权</span>（Docker 镜像或源码交付），包含 jaaz.app 全量线上功能。限时 <b>30% OFF</b>，截止 <b>2025-09-15</b>。 
   <a href="mailto:info@jaaz.app">了解/洽谈 →</a> info@jaaz.app
+  Download:https://github.com/11cafe/jaaz/releases
 </p>
 <br><br>
 
@@ -185,6 +186,7 @@ VSCode/Cursor Install Extensions：
 `pip install -r requirements.txt`
 
 `python main.py`
+
 
 
 
